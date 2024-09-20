@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Natalia
+# Hi there! I'm Natalia
 
 🚀 **Jonior Frontend Developer** with a focus on building interactive and scalable web applications.
 
