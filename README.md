@@ -17,6 +17,21 @@
 [![CSS3][CSS3-badge]][CSS3-url]
 [![Figma][Figma.io]][Figma-url]
 
+## 🚀 Featured Projects
+
+### [🚆 Train Ticket Booking App](https://nuttik.github.io/train-a/)
+A web application for booking train tickets, developed using **Angular**, **NgRx**, and **Angular Material**. The app allows users to search for train routes, view seat availability, and complete bookings.  
+[**View Demo**](https://nuttik.github.io/train-a/) | [**GitHub Repo**](https://github.com/Nuttik/train-a)
+
+### [📽️ YouTube Search App](https://nuttik.github.io/youtube-search/)
+Single Page Application built with **Angular**, **NgRx**, and **RxJS**. Allows users to search and save their favorite YouTube videos.  
+[**View Demo**](https://nuttik.github.io/youtube-search/youtube-app/) | [**GitHub Repo**](https://github.com/Nuttik/youtube-search))
+
+### [⌚ Watchmaker Landing Page](https://repair-watch.ru)
+A responsive landing page built with **Pug**, **SCSS**, and **JavaScript (ES6+)**. Designed for a watchmaker's workshop, featuring elegant UI.  
+[**View Demo**](https://repair-watch.ru) | [**GitHub Repo**](https://github.com/Nuttik/repairWatch)
+
+
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuttik&show_icons=true)
 
