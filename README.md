@@ -1,8 +1,8 @@
 # Hi there! I'm Natalia
 
-🚀 **Jonior Frontend Developer** with a focus on building interactive and scalable web applications.
+🚀 **Frontend Developer** with a focus on building interactive and scalable web applications.
 
-- 🌱 I’m currently learning **Angular**
+- 🎨 In addition to frontend I do UI design - my <a href='https://www.behance.net/b0b8194c' target="_blank">**Behance**</a>
 - 📫 Reach me at [pn.88@mail.ru](pn.88@mail.ru)
 
 ### 🛠️ Technologies & Tools
@@ -19,17 +19,17 @@
 
 ## 🚀 Featured Projects
 
+### [⌚ Watchmaker Landing Page](https://repair-watch.ru)
+A responsive landing page built with **Pug**, **SCSS**, and **JavaScript (ES6+)**. Designed for a watchmaker's workshop, featuring elegant UI.  
+<a href='https://repair-watch.ru' target="_blank">**View Lending**</a> | <a href='https://github.com/Nuttik/repairWatch' target="_blank">**GitHub Repo**</a>
+
 ### [🚆 Train Ticket Booking App](https://nuttik.github.io/train-a/)
 A web application for booking train tickets, developed using **Angular**, **NgRx**, and **Angular Material**. The app allows users to search for train routes, view seat availability, and complete bookings.  
-[**View Demo**](https://nuttik.github.io/train-a/) | [**GitHub Repo**](https://github.com/Nuttik/train-a)
+<a href='https://nuttik.github.io/train-a/' target="_blank">**View Demo**</a>  | <a href='https://github.com/Nuttik/train-a' target="_blank">**GitHub Repo**</a>
 
 ### [📽️ YouTube Search App](https://nuttik.github.io/youtube-search/)
 Single Page Application built with **Angular**, **NgRx**, and **RxJS**. Allows users to search and save their favorite YouTube videos.  
-[**View Demo**](https://nuttik.github.io/youtube-search/youtube-app/) | [**GitHub Repo**](https://github.com/Nuttik/youtube-search))
-
-### [⌚ Watchmaker Landing Page](https://repair-watch.ru)
-A responsive landing page built with **Pug**, **SCSS**, and **JavaScript (ES6+)**. Designed for a watchmaker's workshop, featuring elegant UI.  
-[**View Demo**](https://repair-watch.ru) | [**GitHub Repo**](https://github.com/Nuttik/repairWatch)
+<a href='https://nuttik.github.io/youtube-search/youtube-app/' target="_blank">**View Demo**</a> | <a href='https://github.com/Nuttik/youtube-search' target="_blank">**GitHub Repo**</a>
 
 
 ### 📈 GitHub Stats
