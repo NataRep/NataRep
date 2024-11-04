@@ -22,15 +22,15 @@
 
 ### ⌚ Watchmaker Landing Page
 A responsive landing page built with **Pug**, **SCSS**, and **JavaScript (ES6+)**. Designed for a watchmaker's workshop, featuring elegant UI.  
-<a href='https://repair-watch.ru' target="_blank">**View Lending**</a> | <a href='https://github.com/Nuttik/repairWatch' target="_blank">**GitHub Repo**</a>
+<a href='https://repair-watch.ru' target="_blank">**View Lending**</a> | <a href='https://github.com/NataRep/repairWatch' target="_blank">**GitHub Repo**</a>
 
 ### 🚆 Train Ticket Booking App
 A web application for booking train tickets, developed using **Angular**, **NgRx**, and **Angular Material**. The app allows users to search for train routes, view seat availability, and complete bookings.  
-<a href='https://nataliarepkina.github.io/train-a/' target="_blank">**View Demo**</a>  | <a href='https://github.com/Nuttik/train-a' target="_blank">**GitHub Repo**</a>
+<a href='https://natarep.github.io/train-a/' target="_blank">**View Demo**</a>  | <a href='https://github.com/NataRep/train-a' target="_blank">**GitHub Repo**</a>
 
 ### 📽️ YouTube Search App
 Single Page Application built with **Angular**, **NgRx**, and **RxJS**. Allows users to search and save their favorite YouTube videos.  
-<a href='https://nataliarepkina.github.io/youtube-search/youtube-app/' target="_blank">**View Demo**</a> | <a href='https://github.com/Nuttik/youtube-search' target="_blank">**GitHub Repo**</a>
+<a href='https://natarep.github.io/youtube-search/youtube-app/' target="_blank">**View Demo**</a> | <a href='https://github.com/NataRep/youtube-search' target="_blank">**GitHub Repo**</a>
 
 
 ### 📈 GitHub Stats
