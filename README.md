@@ -34,7 +34,7 @@ Single Page Application built with **Angular**, **NgRx**, and **RxJS**. Allows u
 
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NataRepk&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NataRep&show_icons=true)
 
 ### ⚔️Codewarms
 <a href="https://www.codewars.com/users/natalia_repkina" target="_blank">
