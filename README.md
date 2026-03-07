@@ -27,7 +27,7 @@ A tutorial project with an interactive demonstration of ChangeDetectionStrategy.
 
 ### ⌚ Watchmaker Landing Page
 A responsive landing page built with **Pug**, **SCSS**, and **JavaScript (ES6+)**. Designed for a watchmaker's workshop, featuring elegant UI.  
-<a href='https://NataRep.github.io/repair-watch/' target="_blank">**View Lending**</a> | <a href='https://github.com/NataRep/repairWatch' target="_blank">**GitHub Repo**</a>
+<a href='https://NataRep.github.io/repairWatch/' target="_blank">**View Lending**</a> | <a href='https://github.com/NataRep/repairWatch' target="_blank">**GitHub Repo**</a>
 
 ### 🚆 Train Ticket Booking App
 A web application for booking train tickets, developed using **Angular**, **NgRx**, and **Angular Material**. The app allows users to search for train routes, view seat availability, and complete bookings.  
