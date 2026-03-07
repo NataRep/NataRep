@@ -20,6 +20,11 @@
 
 ## 🚀 Featured Projects
 
+### 🅰️ Angular OnPush Change Detection Visualizer
+Exploring Angular's change detection mechanism through visualization
+A tutorial project with an interactive demonstration of ChangeDetectionStrategy.OnPush  
+<a href='https://natarep.github.io/youtube-search/youtube-app/' target="_blank">**View Demo**</a> | <a href='https://github.com/NataRep/youtube-search' target="_blank">**GitHub Repo**</a>
+
 ### ⌚ Watchmaker Landing Page
 A responsive landing page built with **Pug**, **SCSS**, and **JavaScript (ES6+)**. Designed for a watchmaker's workshop, featuring elegant UI.  
 <a href='https://repair-watch.ru' target="_blank">**View Lending**</a> | <a href='https://github.com/NataRep/repairWatch' target="_blank">**GitHub Repo**</a>
@@ -27,14 +32,6 @@ A responsive landing page built with **Pug**, **SCSS**, and **JavaScript (ES6+)*
 ### 🚆 Train Ticket Booking App
 A web application for booking train tickets, developed using **Angular**, **NgRx**, and **Angular Material**. The app allows users to search for train routes, view seat availability, and complete bookings.  
 <a href='https://natarep.github.io/train-a/' target="_blank">**View Demo**</a>  | <a href='https://github.com/NataRep/train-a' target="_blank">**GitHub Repo**</a>
-
-### 📽️ YouTube Search App
-Single Page Application built with **Angular**, **NgRx**, and **RxJS**. Allows users to search and save their favorite YouTube videos.  
-<a href='https://natarep.github.io/youtube-search/youtube-app/' target="_blank">**View Demo**</a> | <a href='https://github.com/NataRep/youtube-search' target="_blank">**GitHub Repo**</a>
-
-
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NataRep&show_icons=true)
 
 ### ⚔️Codewarms
 <a href="https://www.codewars.com/users/natalia_repkina" target="_blank">
