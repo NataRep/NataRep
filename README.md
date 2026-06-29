@@ -9,6 +9,8 @@
 ### 🛠️ Technologies & Tools
 [![JavaScript][JavaScript-badge]][JavaScript-url]
 [![TypeScript][TypeScript-badge]][TypeScript-url]
+[![React][React-badge]][React-url]
+[![Next.js][Nextjs-badge]][Nextjs-url]
 [![Angular][Angular.io]][Angular-url]
 [![RxJS][RxJS.io]][RxJS-url]
 [![NgRx][NgRx.io]][NgRx-url]
@@ -67,6 +69,12 @@ A web application for booking train tickets, developed using **Angular**, **NgRx
 
 [TypeScript-badge]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org/
+
+[React-badge]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+[React-url]: https://react.dev/
+
+[Nextjs-badge]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Nextjs-url]: https://nextjs.org/
 
 
 <!--
